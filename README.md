@@ -31,8 +31,7 @@ HLT
 
 
 
-
-[ADDITION EXPLANTION].<img width="1583" height="1599" alt="image" src="https://github.com/user-attachments/assets/41d1983a-f2b0-4185-a896-321b4304c711" />
+<img width="1583" height="1599" alt="image" src="https://github.com/user-attachments/assets/41d1983a-f2b0-4185-a896-321b4304c711" />
 
 
 
@@ -62,9 +61,7 @@ HLT
 <img width="313" height="401" alt="image" src="https://github.com/user-attachments/assets/d721ebc1-2053-46ed-b670-9b701f5680e2" />
 <img width="305" height="418" alt="image" src="https://github.com/user-attachments/assets/e224f929-e3e5-4cc8-bdeb-a446d54f7f53" />
 <img width="1213" height="517" alt="image" src="https://github.com/user-attachments/assets/54ea3cfd-4474-43a6-8cff-26e0970fbc0c" />
-
-
-[SUBTRACTION EXPLANTION].<img width="1600" height="994" alt="image" src="https://github.com/user-attachments/assets/4a691638-d2b2-47ce-a3a8-fe85c03d6a9d" />
+.<img width="1600" height="994" alt="image" src="https://github.com/user-attachments/assets/4a691638-d2b2-47ce-a3a8-fe85c03d6a9d" />
 
 
 
@@ -95,9 +92,7 @@ HLT
 <img width="306" height="431" alt="image" src="https://github.com/user-attachments/assets/f1c598c8-9c2f-4e3b-843f-a71ef9c3039f" />
 <img width="924" height="490" alt="image" src="https://github.com/user-attachments/assets/9fdb01a6-6965-484b-a37c-1e861632f269" />
 
-
-
-[MULTIPLICTION EXPLANATION1]<img width="1600" height="1181" alt="image" src="https://github.com/user-attachments/assets/1474c315-a9b5-4f46-9652-ce4f1ad7cf1d" />
+<img width="1600" height="1181" alt="image" src="https://github.com/user-attachments/assets/1474c315-a9b5-4f46-9652-ce4f1ad7cf1d" />
 
 ### For Division:
 1.	Load the dividend from memory location 4200H into register A.
@@ -130,8 +125,7 @@ HLT
 <img width="303" height="434" alt="image" src="https://github.com/user-attachments/assets/d72d48b6-407d-4738-bed8-291ac026be40" />
 
 ![Uploading image.png…]()
-
-[DIVISION EXPLANATION].<img width="1322" height="1030" alt="image" src="https://github.com/user-attachments/assets/e169f664-e6c4-4e01-8fba-36a303514825" />
+<img width="1322" height="1030" alt="image" src="https://github.com/user-attachments/assets/e169f664-e6c4-4e01-8fba-36a303514825" />
 
 
 
